@@ -5,7 +5,7 @@ import subprocess
 from subprocess import Popen
 from sys import argv, exit, executable
 
-# Slow test suites
+# Slow test suites asazasas
 CMDLINE = 'PythonCmdline'
 SAMPLES = 'SamplesSuite'
 TYPESHED = 'TypeshedSuite'
